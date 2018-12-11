@@ -8,3 +8,4 @@ print ('nogmaals gewijzigd om 1701uur!')
 
 print("Dag Hans")
 print("Dag Hans")
+print("Dag Hans")
